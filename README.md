@@ -1,2 +1,2 @@
 # game-dev
-A repository for game development practice
+Repository for game development practice
